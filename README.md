@@ -1,6 +1,6 @@
 # Book List Project
 
-Book List Project built with React.js, using the Google Books API.
+Book List Project built with React.js, using the Google Books API. Live here: https://romantic-euclid-962f83.netlify.app/
 
 ## Available Scripts
 
