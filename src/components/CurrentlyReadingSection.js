@@ -5,7 +5,7 @@ const CurrentlyReadingSection = () => {
     <div className="mt-3">
       <div className="content flex justify-between">
         <span className="section-title">Currently Reading</span>
-        <a>All</a>
+        <span className="link">All</span>
       </div>
       <div className="mt-2">
         <div>

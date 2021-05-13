@@ -15,13 +15,13 @@ body {
   color: #3F4043;
 }
 
-a {
+a, .link {
   text-decoration: none;
   color: #4ABDF1;
   cursor: pointer;
 }
 
-a:hover {
+a:hover, .link:hover {
   text-decoration: underline;
 }
 

@@ -8,7 +8,7 @@ const ReviewsOfTheDays = () => {
     <div className="reviews-of-the-days content mt-4">
       <div className="flex justify-between">
         <span className="section-title">Reviews of The Days</span>
-        <a>All Video</a>
+        <span className="link">All Video</span>
       </div>
       <div className="mt-2">
         <div>
